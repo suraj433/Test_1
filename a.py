@@ -5,3 +5,4 @@ for i in range(0,11):
 for i in range(0,11):
     print("suraj") 
     print()
+print("This is a simple Python program.")
